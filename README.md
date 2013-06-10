@@ -1,13 +1,14 @@
 AssetsOptimizer
 ===============
 
-Compiles lesscss, minifies javascript, resizes and compresses images in one powershell script.
+Compiles lesscss, minifies javascript, resizes and compresses images in one PowerShell script.
 
 Prerequisites
 ===============
 
 1. Install node.js (for the lesscss compiling)
-2. Setup your assets folder structure. It should look something like this:
+2. Install PowerShell. 
+3. Setup your assets folder structure. It should look something like this:
 
 ```
 websiteRoot
